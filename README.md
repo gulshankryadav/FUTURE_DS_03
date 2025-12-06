@@ -13,7 +13,7 @@
 ## 🎥 Project Video Demo
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1SuXjOJBZ5vBSw3aH4iVAkuNXoFXr3e6y/view?usp=drivesdk">📌 Video Link Coming Soon</a>
+  <a href="https://drive.google.com/file/d/1SuXjOJBZ5vBSw3aH4iVAkuNXoFXr3e6y/view">📌 Video Link Coming Soon</a>
 </p>
 
 ---
